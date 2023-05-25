@@ -28,3 +28,6 @@ h2 {
 img {
   width: 100%;
 }
+.rounder {
+  border-radius: 10px;
+}
